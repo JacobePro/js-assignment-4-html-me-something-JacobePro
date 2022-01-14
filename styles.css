@@ -1,1 +1,127 @@
-/* Write your CSS here! */
+h1 {
+    color: red; 
+    background-color: #1954f7; 
+    text-shadow: 1px 1px 2px rgba(0, 73, 146, 0.8); 
+}
+
+.index-tampa {
+	color: rgb(179, 0, 0);
+}
+
+body {
+	margin: 8px;
+	display: contents;
+}
+
+
+#index-tampa {
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+}
+
+#mainHeading {
+	color: red;
+}
+
+.index-chiefs {
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+}
+
+.index-packers {
+	color: rgb(36, 126, 0);
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+}
+
+.funParagraph {
+	color: green;
+}
+
+header {
+    font-style: italic;
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;;
+	background-color: rgb(0, 56, 177);
+	font-size: 90%;
+}
+
+header,
+main,
+footer {
+	background-color: rgb(201, 201, 201);
+	font-size: 1.6em;
+}
+
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+section:first-child {
+	margin-top: 0;
+}
+
+section:last-child {
+	margin-bottom: 0;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+}
+
+
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+p {
+    background-color: rgb(148, 148, 148);
+  }
+
